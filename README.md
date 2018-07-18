@@ -9,6 +9,8 @@ Here are a few resources to help you right off the bat:
 * Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 * Emoji cheat sheet: http://www.webpagefx.com/tools/emoji-cheat-sheet/
 
+* What 
+
 ### Go ahead and fork this so you can add a copy to your own account.
 
 * Fork this repo
