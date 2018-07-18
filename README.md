@@ -11,6 +11,8 @@ Here are a few resources to help you right off the bat:
 
 * What 
 
+:smile:
+
 ### Go ahead and fork this so you can add a copy to your own account.
 
 * Fork this repo
